@@ -1,0 +1,19 @@
+citHeader("To cite the RDI method in publications use:")
+
+citEntry(entry = "Article",
+  title        = "The Repertoire Dissimilarity Index as a method to compare lymphocyte receptor repertoires",
+  author       = personList(person("Christopher R","Bolen"),
+                   as.person("Florian Rubelt"),
+                   person("Jason A","Vander Heiden"),
+                   as.person("Mark M Davis")),
+  journal      = "BMC Bioinformatics",
+  year         = "2017",
+  volume       = "18",
+  pages        = "155",
+
+  textVersion  =
+  paste("Bolen CR, Rubelt F, Vander Heiden JA, Davis MM.",
+        "The Repertoire Dissimilarity Index as a method",
+        "to compare lymphocyte receptor repertoires.",
+        "BMC Bioinformatics. 2017 Mar 7;18(1):155.")
+)

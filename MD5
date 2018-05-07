@@ -1,0 +1,17 @@
+01c58192b61a2914c439d8141c3824a3 *DESCRIPTION
+fd35d4e0a5c07e2c3e54102acdc1060e *NAMESPACE
+044b40d0ff1fe4300941f2f2e50e705d *NEWS.md
+8b92e317ffb24a50bf0352cd4095ab18 *R/RDI.R
+e2b6915cacb7bd7d64c7ea62238191df *R/plotRDI.R
+1edae1c484f8a91ccede764b43343ba3 *R/rdi_functions.R
+37335ef51fd04f4f8313547a756a8b81 *R/sysdata.rda
+ba954cdf9da66c7e5591add601975f9c *README.md
+46063b60b01306f2cc8033428035bc77 *inst/CITATION
+d6a58f562fe380772826152322ff7d8f *man/calcRDI.Rd
+68e05f39259134f38605548c60e8a055 *man/calcVDJcounts.Rd
+46cc8866e7e71b41da173610ccc0516c *man/convertRDI.Rd
+7a2e8c8d1e4acc0fd73537ea0fa52987 *man/plotRDIladder.Rd
+5f15b8ec6b856d4a0f703d04458d7b6d *man/rdi.Rd
+f40ee5536ff9fac8c95a541e8440deac *man/rdiAxis.Rd
+5960eb2c4544c21a3026373ca0a7ff03 *man/rdiLadder.Rd
+5c2feccddd601bfe3d16ca70b0a5bed4 *man/rdiModel.Rd
